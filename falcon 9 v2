@@ -1,0 +1,217 @@
+{
+  "center": 10.0,
+  "parts": [
+    {
+      "n": "D Merlin Block",
+      "p": {
+        "x": 10.0,
+        "y": 64.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": false,
+        "heat_on__for_creative_use": true,
+        "gimbal_on": true
+      }
+    },
+    {
+      "n": "F9 B5 Stage 2 non reuable B",
+      "p": {
+        "x": 10.0,
+        "y": 108.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "mass": 150.0,
+        "Wet": 150.0,
+        "Perc": 1.0,
+        "T": 0.0,
+        "TT": 0.0
+      }
+    },
+    {
+      "n": "FH interstage",
+      "p": {
+        "x": 10.0,
+        "y": 104.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 5.5,
+        "width_a": 5.5,
+        "width_b": 5.5,
+        "height": 4.5,
+        "mass": 1.0,
+        "force_percent": 0.5
+      },
+      "B": {
+        "occupied_a": false,
+        "detach_edge": true
+      },
+      "T": {
+        "fragment": "",
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Body",
+      "p": {
+        "x": 10.0,
+        "y": 78.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "mass": 650.0,
+        "Wet": 650.0,
+        "Perc": 1.0,
+        "T": 0.0,
+        "TT": 0.0
+      }
+    },
+    {
+      "n": "F9 Fairing",
+      "p": {
+        "x": 10.0,
+        "y": 117.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width_original": 5.5,
+        "width_a": 5.5,
+        "width_b": 5.5,
+        "height": 4.5,
+        "mass": 1.0,
+        "force_percent": 0.5
+      },
+      "B": {
+        "occupied_a": false,
+        "detach_edge": true
+      },
+      "T": {
+        "fragment": "",
+        "color_tex": "_",
+        "shape_tex": "_"
+      }
+    },
+    {
+      "n": "Grid fin",
+      "p": {
+        "x": 12.0,
+        "y": 103.5
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "t": 0.0,
+        "tt": 0.0
+      }
+    },
+    {
+      "n": "Grid fin",
+      "p": {
+        "x": 8.0,
+        "y": 103.5
+      },
+      "o": {
+        "x": -1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "t": 0.0,
+        "tt": 0.0
+      }
+    },
+    {
+      "n": "Merlin Vacuum Engine - Copy",
+      "p": {
+        "x": 10.0,
+        "y": 110.5
+      },
+      "o": {
+        "x": -1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "B": {
+        "engine_on": false,
+        "heat_on__for_creative_use": true,
+        "gimbal_on": true
+      }
+    },
+    {
+      "n": "Docking Port",
+      "p": {
+        "x": 10.0,
+        "y": 118.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width": 3.0,
+        "force_multiplier": 0.5,
+        "sep_force_multiplier": 0.5
+      }
+    },
+    {
+      "n": "Probe",
+      "p": {
+        "x": 10.0,
+        "y": 114.0
+      },
+      "o": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 0.0
+      },
+      "t": "-Infinity",
+      "N": {
+        "width": 2.0
+      }
+    }
+  ],
+  "stages": [],
+  "rotation": 0.0,
+  "offset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "interiorView": false
+}
+"1.5.10.2"
